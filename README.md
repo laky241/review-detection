@@ -55,4 +55,26 @@ Deep models add complexity, opacity, and training cost without guaranteeing bett
 
 ---
 
-## Project Structure
+##Limitations & Responsible Usage
+
+-This system does not guarantee detection of all fake reviews
+
+-Subtle or well-written paid reviews may pass
+
+-Genuine users may occasionally be flagged (false positives)
+
+-Intended for review moderation support, not automated banning
+
+
+---
+
+
+####Future Improvements
+
+-Dataset-driven tuning
+
+-Reviewer behavior history
+
+-Semantic similarity detection
+
+-Dashboard analytics for moderators
